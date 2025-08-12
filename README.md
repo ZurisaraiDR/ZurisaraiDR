@@ -1,11 +1,11 @@
-# 🌸 Hi, I'm Zuri
+# 🪻 Hi, I'm Zuri
 💻 *Frontend developer* in progress  
 ☕ Coffe lover & minimalist UI enthusiast  
-📍 Writing cute, clean, and functional code ✨  
+✨ Writing cute, clean, and functional code
 
 ---
 
-## 📌 Tech Stack
+## 🤞 Tech Stack
 ![HTML Badge](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-F8C8DC?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
@@ -19,9 +19,9 @@
 ---
 
 ## 🌷 About Me
-- 🎯 Currently learning **React** and improving my programming logic  
+- 🧸 Currently learning **React** and improving my programming logic  
 - 🌸 Passionate about designing clean and appealing user interfaces  
-- 📚 I believe code can be both powerful and beautiful
+- 🐛 I believe code can be both powerful and beautiful
 
 ---
 
